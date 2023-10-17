@@ -1,0 +1,10 @@
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/bin/Debug/net7.0/EncapsulationVePropertyKavrami
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/bin/Debug/net7.0/EncapsulationVePropertyKavrami.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/bin/Debug/net7.0/EncapsulationVePropertyKavrami.pdb
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/obj/Debug/net7.0/EncapsulationVePropertyKavrami.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/obj/Debug/net7.0/EncapsulationVePropertyKavrami.AssemblyInfoInputs.cache
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/obj/Debug/net7.0/EncapsulationVePropertyKavrami.AssemblyInfo.cs
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/obj/Debug/net7.0/EncapsulationVePropertyKavrami.csproj.CoreCompileInputs.cache
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/obj/Debug/net7.0/EncapsulationVePropertyKavrami.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/obj/Debug/net7.0/refint/EncapsulationVePropertyKavrami.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/EncapsulationVePropertyKavrami/obj/Debug/net7.0/EncapsulationVePropertyKavrami.pdb
