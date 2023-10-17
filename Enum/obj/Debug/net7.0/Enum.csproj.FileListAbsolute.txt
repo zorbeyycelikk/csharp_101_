@@ -1,0 +1,10 @@
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/bin/Debug/net7.0/Enum
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/bin/Debug/net7.0/Enum.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/bin/Debug/net7.0/Enum.pdb
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/obj/Debug/net7.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/obj/Debug/net7.0/Enum.AssemblyInfoInputs.cache
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/obj/Debug/net7.0/Enum.AssemblyInfo.cs
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/obj/Debug/net7.0/Enum.csproj.CoreCompileInputs.cache
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/obj/Debug/net7.0/Enum.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/obj/Debug/net7.0/refint/Enum.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/Enum/obj/Debug/net7.0/Enum.pdb
