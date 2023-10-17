@@ -1,0 +1,10 @@
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/bin/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/bin/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/bin/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar.pdb
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/obj/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/obj/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar.AssemblyInfoInputs.cache
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/obj/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar.AssemblyInfo.cs
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/obj/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar.csproj.CoreCompileInputs.cache
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/obj/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/obj/Debug/net7.0/refint/ErisimBelirleyicilerVeKurucuFonksiyonlar.dll
+/Users/zorbeycelik/Documents/Patika.Dev/CohortÖdevler/c#101/ErisimBelirleyicilerVeKurucuFonksiyonlar/obj/Debug/net7.0/ErisimBelirleyicilerVeKurucuFonksiyonlar.pdb
